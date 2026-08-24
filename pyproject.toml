@@ -1,0 +1,6 @@
+[project]
+name = "agentic-codebase-intelligence"
+version = "0.1.0"
+description = "Agentic Codebase Intelligence & Software Reliability Platform"
+requires-python = ">=3.13"
+dependencies = []
