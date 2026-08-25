@@ -5,6 +5,8 @@ description = "Agentic Codebase Intelligence & Software Reliability Platform"
 requires-python = ">=3.13"
 dependencies = [
     "gitpython>=3.1.59",
+    "neo4j>=6.2.0",
+    "networkx>=3.6.1",
     "tree-sitter==0.25.0",
     "tree-sitter-python>=0.25.0",
 ]
